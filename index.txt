@@ -1,0 +1,6 @@
+<html>
+<head>
+	<title>web project</title>
+</head>
+
+</html>
